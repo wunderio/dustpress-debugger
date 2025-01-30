@@ -2,11 +2,11 @@
 
 /**
  * Plugin Name: DustPress Debugger
- * Plugin URI: https://github.com/devgeniem/dustpress-debugger
+ * Plugin URI: https://github.com/wunderio/dustpress-debugger
  * Description: Provides handy ajaxified debugger tool for DustPress based themes.
- * Version: 2.0.0
- * Author: Geniem Oy / Miika Arponen & Ville Siltala
- * Author URI: http://www.geniem.com
+ * Version: 2.0.1
+ * Author: Originally Geniem Oy / forked for Wunder Finland Oy by Miika Arponen
+ * Author URI: http://www.wunder.io
  */
 
 namespace DustPress;
